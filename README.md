@@ -27,17 +27,6 @@ The repository is intended for:
 - experimentation
 - reproduction of published methods
 
-## Citation
-
-If you use this code, please cite the original paper:
-
-```bibtex
-@article{roman2020audio2score,
-  title={Data representations for audio-to-score monophonic music transcription},
-  author={Román, Miguel A. and Pertusa, Antonio and Calvo-Zaragoza, Jorge},
-  journal={Expert Systems with Applications},
-  year={2020}
-}
 
 Copyright (c) 2026 <Harry-Liu23>
 
@@ -58,3 +47,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+## Citation
+
+If you use this code, please cite the original paper:
+
+```bibtex
+@article{roman2020audio2score,
+  title={Data representations for audio-to-score monophonic music transcription},
+  author={Román, Miguel A. and Pertusa, Antonio and Calvo-Zaragoza, Jorge},
+  journal={Expert Systems with Applications},
+  year={2020}
+}
