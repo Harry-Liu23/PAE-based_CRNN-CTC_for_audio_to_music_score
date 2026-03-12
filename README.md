@@ -8,8 +8,13 @@ This implementation is independent and intended for educational and research pur
 If you use this code, please cite the original paper:
 
 @article{roman2020audio2score,
+
   title={Data representations for audio-to-score monophonic music transcription},
+  
   author={Román, Miguel A. and Pertusa, Antonio and Calvo-Zaragoza, Jorge},
+  
   journal={Expert Systems with Applications},
+  
   year={2020}
+  
 }
